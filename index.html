@@ -17,12 +17,13 @@
         <div id="file-explorer">
             <span id="header">File Explorer</span>
             <div id="files">
-                <span class="file">other_file.js</span>
-                <span class="file">new_file.js</span>
+                <span file_name="other_file" class="file">other_file.js</span>
+                <span file_name="main" class="file">main.js</span>
+                <span file_name="new_file" class="file">new_file.js</span>
             </div>
         </div>
-        <div id="editor">let testing = 4;
-        </div>
+        <!-- anything inside this div#editor will be put exactly into the editor - including whitespace, tabs, newlines -->
+        <div id="editor">let testing = 4;</div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.5.3/ace.js"></script>
     <script src="main.js"></script>

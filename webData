@@ -2284,5 +2284,1292 @@
         "prevTabId": 735102410,
         "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
         "time": 1686675557
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty - Maintenance",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686679722
+    },
+    {
+        "action": "navigate between urls in the same tab (typed)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders/4070-1",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "time": 1686679727
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty - Maintenance",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders/4070-1",
+        "time": 1686679733
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty - Maintenance",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "time": 1686679736
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders/4070-1",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "time": 1686682587
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders/4070-1",
+        "time": 1686682815
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683396
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683430
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683472
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683483
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683520
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683528
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683540
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683545
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683614
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683650
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683678
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683710
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102429,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102429,
+        "prevUrl": "",
+        "time": 1686683716
+    },
+    {
+        "action": "navigate between urls in the same tab (generated)",
+        "curTabId": 735102429,
+        "curTitle": "how to get attribute of html element in js - Google Search",
+        "curUrl": "https://www.google.com/search?q=how+to+get+attribute+of+html+element+in+js&oq=how+to+get+attribute+of+html+element+in+js&aqs=chrome..69i57j0i512j0i22i30l4j0i390i650l4.11377j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 735102429,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686683729
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102429,
+        "prevUrl": "https://www.google.com/search?q=how+to+get+attribute+of+html+element+in+js&oq=how+to+get+attribute+of+html+element+in+js&aqs=chrome..69i57j0i512j0i22i30l4j0i390i650l4.11377j0j7&sourceid=chrome&ie=UTF-8",
+        "time": 1686683738
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683739
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683767
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686683789
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 735102430,
+        "curTitle": "GitHub",
+        "curUrl": "https://github.com/",
+        "prevTabId": 735102430,
+        "prevUrl": "",
+        "time": 1686683878
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 735102427,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/",
+        "time": 1686683879
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102431,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102431,
+        "prevUrl": "",
+        "time": 1686683968
+    },
+    {
+        "action": "navigate between urls in the same tab (generated)",
+        "curTabId": 735102431,
+        "curTitle": "How to handle bind an event using JavaScript",
+        "curUrl": "https://www.tutorialspoint.com/How-to-handle-bind-an-event-using-JavaScript",
+        "prevTabId": 735102431,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686683977
+    },
+    {
+        "action": "navigate between urls in the same tab (generated)",
+        "curTabId": 735102431,
+        "curTitle": "bind an event handler in javascript - Google Search",
+        "curUrl": "https://www.google.com/search?q=bind+an+event+handler+in+javascript&oq=bind+an+eve&aqs=chrome.2.69i57j0i512l2j0i22i30j0i15i22i30j0i10i22i30j0i22i30l4.4184j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 735102431,
+        "prevUrl": "https://www.tutorialspoint.com/How-to-handle-bind-an-event-using-JavaScript",
+        "time": 1686683990
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102430,
+        "curTitle": "GitHub",
+        "curUrl": "https://github.com/",
+        "prevTabId": 735102431,
+        "prevUrl": "https://www.google.com/search?q=bind+an+event+handler+in+javascript&oq=bind+an+eve&aqs=chrome.2.69i57j0i512l2j0i22i30j0i15i22i30j0i10i22i30j0i22i30l4.4184j0j7&sourceid=chrome&ie=UTF-8",
+        "time": 1686684002
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102431,
+        "curTitle": "bind a parameter to an event handler in javascript - Google Search",
+        "curUrl": "https://www.google.com/search?q=bind+a+parameter+to+an+event+handler+in+javascript&sxsrf=APwXEde9541jPjduRr0-2lgI2TvXbrElPg%3A1686683973111&ei=RcGIZIS9BqStptQP9a-CwAc&oq=bind+a+parameter+to+an+event+h&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgATIFCCEQoAEyBQghEKsCMgUIIRCrAjIFCCEQqwIyCgghEBYQHhAPEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB0yCAghEBYQHhAdOgcIIxCKBRAnOg0ILhCKBRDHARCvARAnOggIABCKBRCRAjoHCAAQigUQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6CggAEIoFELEDEEM6DQgAEIoFELEDEIMBEEM6BQgAEIAEOgsIABCABBCxAxCDAToKCAAQgAQQFBCHAjoGCAAQFhAeOggIABAWEB4QDzoKCAAQFhAeEA8QCjoICAAQFhAeEApKBAhBGABQAFisHWDGJWgAcAB4AoABlAOIAZUzkgEKMi4xNC45LjQuMZgBAKABAcABAQ&sclient=gws-wiz-serp",
+        "prevTabId": 735102431,
+        "prevUrl": "https://www.google.com/search?q=bind+an+event+handler+in+javascript&oq=bind+an+eve&aqs=chrome.2.69i57j0i512l2j0i22i30j0i15i22i30j0i10i22i30j0i22i30l4.4184j0j7&sourceid=chrome&ie=UTF-8",
+        "time": 1686684004
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102430,
+        "curTitle": "GitHub",
+        "curUrl": "https://github.com/",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/",
+        "time": 1686684011
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102430,
+        "curTitle": "victoriaprisco",
+        "curUrl": "https://github.com/victoriaprisco",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/",
+        "time": 1686684014
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102430,
+        "curTitle": "victoriaprisco",
+        "curUrl": "https://github.com/victoriaprisco",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco",
+        "time": 1686684016
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 735102430,
+        "curTitle": "victoriaprisco",
+        "curUrl": "https://github.com/victoriaprisco?tab=repositories",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco",
+        "time": 1686684017
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102430,
+        "curTitle": "Your Repositories",
+        "curUrl": "https://github.com/victoriaprisco?tab=repositories",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco?tab=repositories",
+        "time": 1686684017
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102430,
+        "curTitle": "victoriaprisco/studySite",
+        "curUrl": "https://github.com/victoriaprisco/studySite",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco?tab=repositories",
+        "time": 1686684022
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102430,
+        "curTitle": "victoriaprisco/studySite",
+        "curUrl": "https://github.com/victoriaprisco/studySite",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite",
+        "time": 1686684026
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102430,
+        "curTitle": "victoriaprisco/studySite",
+        "curUrl": "https://github.com/victoriaprisco/studySite/settings",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite",
+        "time": 1686684026
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102430,
+        "curTitle": "General",
+        "curUrl": "https://github.com/victoriaprisco/studySite/settings",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite/settings",
+        "time": 1686684027
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102431,
+        "curTitle": "bind a parameter to an event handler in javascript - Google Search",
+        "curUrl": "https://www.google.com/search?q=bind+a+parameter+to+an+event+handler+in+javascript&sxsrf=APwXEde9541jPjduRr0-2lgI2TvXbrElPg%3A1686683973111&ei=RcGIZIS9BqStptQP9a-CwAc&oq=bind+a+parameter+to+an+event+h&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgATIFCCEQoAEyBQghEKsCMgUIIRCrAjIFCCEQqwIyCgghEBYQHhAPEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB0yCAghEBYQHhAdOgcIIxCKBRAnOg0ILhCKBRDHARCvARAnOggIABCKBRCRAjoHCAAQigUQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6CggAEIoFELEDEEM6DQgAEIoFELEDEIMBEEM6BQgAEIAEOgsIABCABBCxAxCDAToKCAAQgAQQFBCHAjoGCAAQFhAeOggIABAWEB4QDzoKCAAQFhAeEA8QCjoICAAQFhAeEApKBAhBGABQAFisHWDGJWgAcAB4AoABlAOIAZUzkgEKMi4xNC45LjQuMZgBAKABAcABAQ&sclient=gws-wiz-serp",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite/settings",
+        "time": 1686684027
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102430,
+        "curTitle": "General",
+        "curUrl": "https://github.com/victoriaprisco/studySite/settings",
+        "prevTabId": 735102431,
+        "prevUrl": "https://www.google.com/search?q=bind+a+parameter+to+an+event+handler+in+javascript&sxsrf=APwXEde9541jPjduRr0-2lgI2TvXbrElPg%3A1686683973111&ei=RcGIZIS9BqStptQP9a-CwAc&oq=bind+a+parameter+to+an+event+h&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgATIFCCEQoAEyBQghEKsCMgUIIRCrAjIFCCEQqwIyCgghEBYQHhAPEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB0yCAghEBYQHhAdOgcIIxCKBRAnOg0ILhCKBRDHARCvARAnOggIABCKBRCRAjoHCAAQigUQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6CggAEIoFELEDEEM6DQgAEIoFELEDEIMBEEM6BQgAEIAEOgsIABCABBCxAxCDAToKCAAQgAQQFBCHAjoGCAAQFhAeOggIABAWEB4QDzoKCAAQFhAeEA8QCjoICAAQFhAeEApKBAhBGABQAFisHWDGJWgAcAB4AoABlAOIAZUzkgEKMi4xNC45LjQuMZgBAKABAcABAQ&sclient=gws-wiz-serp",
+        "time": 1686684028
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102430,
+        "curTitle": "General",
+        "curUrl": "https://github.com/victoriaprisco/studySite/settings",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite/settings",
+        "time": 1686684030
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 735102430,
+        "curTitle": "General",
+        "curUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite/settings",
+        "time": 1686684030
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102430,
+        "curTitle": "Pages",
+        "curUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "time": 1686684031
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102430,
+        "curTitle": "Pages",
+        "curUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "time": 1686684038
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102430,
+        "curTitle": "Pages",
+        "curUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "time": 1686684042
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102431,
+        "curTitle": "bind a parameter to an event handler in javascript - Google Search",
+        "curUrl": "https://www.google.com/search?q=bind+a+parameter+to+an+event+handler+in+javascript&sxsrf=APwXEde9541jPjduRr0-2lgI2TvXbrElPg%3A1686683973111&ei=RcGIZIS9BqStptQP9a-CwAc&oq=bind+a+parameter+to+an+event+h&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgATIFCCEQoAEyBQghEKsCMgUIIRCrAjIFCCEQqwIyCgghEBYQHhAPEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB0yCAghEBYQHhAdOgcIIxCKBRAnOg0ILhCKBRDHARCvARAnOggIABCKBRCRAjoHCAAQigUQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6CggAEIoFELEDEEM6DQgAEIoFELEDEIMBEEM6BQgAEIAEOgsIABCABBCxAxCDAToKCAAQgAQQFBCHAjoGCAAQFhAeOggIABAWEB4QDzoKCAAQFhAeEA8QCjoICAAQFhAeEApKBAhBGABQAFisHWDGJWgAcAB4AoABlAOIAZUzkgEKMi4xNC45LjQuMZgBAKABAcABAQ&sclient=gws-wiz-serp",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "time": 1686684047
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102431,
+        "curTitle": "Javascript event handler with parameters - Stack Overflow",
+        "curUrl": "https://stackoverflow.com/questions/10000083/javascript-event-handler-with-parameters",
+        "prevTabId": 735102431,
+        "prevUrl": "https://www.google.com/search?q=bind+a+parameter+to+an+event+handler+in+javascript&sxsrf=APwXEde9541jPjduRr0-2lgI2TvXbrElPg%3A1686683973111&ei=RcGIZIS9BqStptQP9a-CwAc&oq=bind+a+parameter+to+an+event+h&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgATIFCCEQoAEyBQghEKsCMgUIIRCrAjIFCCEQqwIyCgghEBYQHhAPEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB0yCAghEBYQHhAdOgcIIxCKBRAnOg0ILhCKBRDHARCvARAnOggIABCKBRCRAjoHCAAQigUQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6CggAEIoFELEDEEM6DQgAEIoFELEDEIMBEEM6BQgAEIAEOgsIABCABBCxAxCDAToKCAAQgAQQFBCHAjoGCAAQFhAeOggIABAWEB4QDzoKCAAQFhAeEA8QCjoICAAQFhAeEApKBAhBGABQAFisHWDGJWgAcAB4AoABlAOIAZUzkgEKMi4xNC45LjQuMZgBAKABAcABAQ&sclient=gws-wiz-serp",
+        "time": 1686684053
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102431,
+        "curTitle": "bind a parameter to an event handler in javascript - Google Search",
+        "curUrl": "https://www.google.com/search?q=bind+a+parameter+to+an+event+handler+in+javascript&sxsrf=APwXEde9541jPjduRr0-2lgI2TvXbrElPg%3A1686683973111&ei=RcGIZIS9BqStptQP9a-CwAc&oq=bind+a+parameter+to+an+event+h&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgATIFCCEQoAEyBQghEKsCMgUIIRCrAjIFCCEQqwIyCgghEBYQHhAPEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB0yCAghEBYQHhAdOgcIIxCKBRAnOg0ILhCKBRDHARCvARAnOggIABCKBRCRAjoHCAAQigUQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6CggAEIoFELEDEEM6DQgAEIoFELEDEIMBEEM6BQgAEIAEOgsIABCABBCxAxCDAToKCAAQgAQQFBCHAjoGCAAQFhAeOggIABAWEB4QDzoKCAAQFhAeEA8QCjoICAAQFhAeEApKBAhBGABQAFisHWDGJWgAcAB4AoABlAOIAZUzkgEKMi4xNC45LjQuMZgBAKABAcABAQ&sclient=gws-wiz-serp",
+        "prevTabId": 735102431,
+        "prevUrl": "https://stackoverflow.com/questions/10000083/javascript-event-handler-with-parameters",
+        "time": 1686684067
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102430,
+        "curTitle": "Pages",
+        "curUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "prevTabId": 735102431,
+        "prevUrl": "https://www.google.com/search?q=bind+a+parameter+to+an+event+handler+in+javascript&sxsrf=APwXEde9541jPjduRr0-2lgI2TvXbrElPg%3A1686683973111&ei=RcGIZIS9BqStptQP9a-CwAc&oq=bind+a+parameter+to+an+event+h&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgATIFCCEQoAEyBQghEKsCMgUIIRCrAjIFCCEQqwIyCgghEBYQHhAPEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB0yCAghEBYQHhAdOgcIIxCKBRAnOg0ILhCKBRDHARCvARAnOggIABCKBRCRAjoHCAAQigUQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6CggAEIoFELEDEEM6DQgAEIoFELEDEIMBEEM6BQgAEIAEOgsIABCABBCxAxCDAToKCAAQgAQQFBCHAjoGCAAQFhAeOggIABAWEB4QDzoKCAAQFhAeEA8QCjoICAAQFhAeEApKBAhBGABQAFisHWDGJWgAcAB4AoABlAOIAZUzkgEKMi4xNC45LjQuMZgBAKABAcABAQ&sclient=gws-wiz-serp",
+        "time": 1686684068
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "time": 1686684085
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684086
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684126
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684152
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684187
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684196
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684223
+    },
+    {
+        "action": "hyperlink opened in new window",
+        "curTabId": 735102426,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=howto",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684240
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686684266
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684266
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684271
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102427,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684280
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102426,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=howto",
+        "prevTabId": 735102427,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686684281
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686684300
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684301
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684329
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102427,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686684341
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684342
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102426,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=howto",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684345
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102430,
+        "curTitle": "Pages",
+        "curUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686684347
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102430,
+        "curTitle": "Document",
+        "curUrl": "https://victoriaprisco.github.io/studySite/",
+        "prevTabId": 735102430,
+        "prevUrl": "https://github.com/victoriaprisco/studySite/settings/pages",
+        "time": 1686684352
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102427,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102430,
+        "prevUrl": "https://victoriaprisco.github.io/studySite/",
+        "time": 1686684376
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102427,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686684377
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686684387
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684388
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684401
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102427,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684404
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102426,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=howto",
+        "prevTabId": 735102427,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686684406
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686684421
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102426,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=howto",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686684421
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684422
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102426,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=howto",
+        "prevTabId": 735102427,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686684428
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102426,
+        "curTitle": "Configuring Ace · ajaxorg/ace Wiki",
+        "curUrl": "https://github.com/ajaxorg/ace/wiki/Configuring-Ace",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686684447
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102426,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=howto",
+        "prevTabId": 735102426,
+        "prevUrl": "https://github.com/ajaxorg/ace/wiki/Configuring-Ace",
+        "time": 1686684448
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686684455
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684456
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102426,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=howto",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684459
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686684480
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684481
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102427,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686684516
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102427,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686684516
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684517
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102426,
+        "curTitle": "Configuring Ace · ajaxorg/ace Wiki",
+        "curUrl": "https://github.com/ajaxorg/ace/wiki/Configuring-Ace",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686684538
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102427,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102426,
+        "prevUrl": "https://github.com/ajaxorg/ace/wiki/Configuring-Ace",
+        "time": 1686684829
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102427,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686684830
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684846
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684883
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686684926
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685013
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685029
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685034
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685042
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685067
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102401,
+        "prevUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "time": 1686685121
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685121
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685153
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102427,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685333
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102426,
+        "curTitle": "Configuring Ace · ajaxorg/ace Wiki",
+        "curUrl": "https://github.com/ajaxorg/ace/wiki/Configuring-Ace",
+        "prevTabId": 735102427,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686685335
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102426,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=howto",
+        "prevTabId": 735102426,
+        "prevUrl": "https://github.com/ajaxorg/ace/wiki/Configuring-Ace",
+        "time": 1686685346
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686685379
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685380
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685393
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685406
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685439
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102427,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102401,
+        "prevUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "time": 1686685462
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102426,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=howto",
+        "prevTabId": 735102427,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686685463
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102426,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686685499
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685500
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders/4070-1",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686685855
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty - Maintenance",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders/4070-1/edit",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders/4070-1",
+        "time": 1686685872
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty - Maintenance",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders/4070-1/edit",
+        "time": 1686685887
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "time": 1686688578
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686688632
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686688635
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686688667
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102436,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102436,
+        "prevUrl": "",
+        "time": 1686688672
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102436,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686688672
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102438,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102438,
+        "prevUrl": "",
+        "time": 1686688942
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102438,
+        "curTitle": "qualtrics wustl - Google Search",
+        "curUrl": "https://www.google.com/search?q=qualtrics+wustl&oq=qualtrics&aqs=chrome.2.0i131i355i433i512j46i131i199i433i465i512j0i512j0i131i433i512j0i512j0i433i512j69i60j5.5736j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 735102438,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686688951
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102438,
+        "prevUrl": "https://www.google.com/search?q=qualtrics+wustl&oq=qualtrics&aqs=chrome.2.0i131i355i433i512j46i131i199i433i465i512j0i512j0i131i433i512j0i512j0i433i512j69i60j5.5736j0j7&sourceid=chrome&ie=UTF-8",
+        "time": 1686688952
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102440,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102440,
+        "prevUrl": "",
+        "time": 1686688991
+    },
+    {
+        "action": "navigate between urls in the same tab (generated)",
+        "curTabId": 735102440,
+        "curTitle": "wustl qualtrics - Google Search",
+        "curUrl": "https://www.google.com/search?q=wustl+qualtrics&oq=wustl+qualtrics&aqs=chrome..69i57j0i512j0i390i650.1847j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 735102440,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686688996
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 735102440,
+        "curTitle": "Qualtrics - WUSTLInformation Technology",
+        "curUrl": "https://it.wustl.edu/items/qualtrics/",
+        "prevTabId": 735102440,
+        "prevUrl": "https://www.google.com/search?q=wustl+qualtrics&oq=wustl+qualtrics&aqs=chrome..69i57j0i512j0i390i650.1847j0j7&sourceid=chrome&ie=UTF-8",
+        "time": 1686688998
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102440,
+        "curTitle": "wustl.az1.qualtrics.com/login",
+        "curUrl": "https://wustl.az1.qualtrics.com/login",
+        "prevTabId": 735102440,
+        "prevUrl": "https://it.wustl.edu/items/qualtrics/",
+        "time": 1686689360
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102440,
+        "curTitle": "WUSTL Key Login - Loading Session Information",
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/POST/SSO;jsessionid=node010gnh7v76k1e51a8lumnxp5je2391811.node0?execution=e1s1",
+        "prevTabId": 735102440,
+        "prevUrl": "https://wustl.az1.qualtrics.com/login",
+        "time": 1686689361
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102440,
+        "curTitle": "Secure Login",
+        "curUrl": "https://connect.wustl.edu/login/wulogin.aspx?idp_ver=3&execution=e1s2&ref=https://login.wustl.edu/idp/profile/SAML2/POST/SSO;jsessionid=node010gnh7v76k1e51a8lumnxp5je2391811.node0?execution=e1s1",
+        "prevTabId": 735102440,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/POST/SSO;jsessionid=node010gnh7v76k1e51a8lumnxp5je2391811.node0?execution=e1s1",
+        "time": 1686689362
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102440,
+        "curTitle": "WUSTL Key Login",
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "prevTabId": 735102440,
+        "prevUrl": "https://connect.wustl.edu/login/wulogin.aspx?idp_ver=3&execution=e1s2&ref=https://login.wustl.edu/idp/profile/SAML2/POST/SSO;jsessionid=node010gnh7v76k1e51a8lumnxp5je2391811.node0?execution=e1s1",
+        "time": 1686689364
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102440,
+        "curTitle": "WUSTL Key Login",
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "prevTabId": 735102440,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "time": 1686689365
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102440,
+        "curTitle": "WUSTL Key Login - Saving Session Information...",
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "prevTabId": 735102440,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "time": 1686689366
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102440,
+        "curTitle": "login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "prevTabId": 735102440,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "time": 1686689367
+    },
+    {
+        "action": "navigate between urls in the same tab (form_submit)",
+        "curTabId": 735102440,
+        "curTitle": "Home | Qualtrics Experience Management",
+        "curUrl": "https://wustl.az1.qualtrics.com/homepage/ui",
+        "prevTabId": 735102440,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "time": 1686689376
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102440,
+        "prevUrl": "https://wustl.az1.qualtrics.com/homepage/ui",
+        "time": 1686689388
     }
 ]
