@@ -763,5 +763,1229 @@
         "prevTabId": 735102396,
         "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
         "time": 1686671944
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672030
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102395,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=embedding",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672069
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102395,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=howto",
+        "prevTabId": 735102395,
+        "prevUrl": "https://ace.c9.io/#nav=embedding",
+        "time": 1686672072
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102395,
+        "prevUrl": "https://ace.c9.io/#nav=howto",
+        "time": 1686672080
+    },
+    {
+        "action": "hyperlink opened in new window",
+        "curTabId": 735102403,
+        "curTitle": "Pick colors from local file URLs | Eye Dropper",
+        "curUrl": "https://eyedropper.org/help/file-urls",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672115
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102404,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102404,
+        "prevUrl": "",
+        "time": 1686672121
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 735102404,
+        "curTitle": "Extensions",
+        "curUrl": "chrome://extensions/",
+        "prevTabId": 735102404,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686672124
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102403,
+        "curTitle": "Pick colors from local file URLs | Eye Dropper",
+        "curUrl": "https://eyedropper.org/help/file-urls",
+        "prevTabId": 735102404,
+        "prevUrl": "chrome://extensions/",
+        "time": 1686672127
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102404,
+        "curTitle": "Extensions",
+        "curUrl": "chrome://extensions/",
+        "prevTabId": 735102403,
+        "prevUrl": "https://eyedropper.org/help/file-urls",
+        "time": 1686672129
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 735102404,
+        "curTitle": "Extensions",
+        "curUrl": "chrome://extensions/?id=hmdcmlfkchdmnmnmheododdhjedfccka",
+        "prevTabId": 735102404,
+        "prevUrl": "chrome://extensions/",
+        "time": 1686672130
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102403,
+        "curTitle": "Pick colors from local file URLs | Eye Dropper",
+        "curUrl": "https://eyedropper.org/help/file-urls",
+        "prevTabId": 735102404,
+        "prevUrl": "chrome://extensions/?id=hmdcmlfkchdmnmnmheododdhjedfccka",
+        "time": 1686672134
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102402,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102403,
+        "prevUrl": "https://eyedropper.org/help/file-urls",
+        "time": 1686672135
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686672140
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672156
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672162
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672167
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672177
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672197
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672215
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672227
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672235
+    },
+    {
+        "action": "navigate between urls in the same tab (auto_bookmark)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672238
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672259
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672276
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672298
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672311
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672332
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672489
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672497
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672507
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672516
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672530
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672534
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672542
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672556
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672564
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672585
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672592
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672598
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672602
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102407,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102407,
+        "prevUrl": "",
+        "time": 1686672603
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 735102407,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102407,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686672616
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102407,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686672616
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672617
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672626
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672638
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672650
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672714
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672715
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672720
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672729
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672744
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672752
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672756
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672780
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672793
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672801
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672810
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672817
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672828
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672838
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672855
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672881
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672910
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672927
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672932
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672952
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686672987
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673004
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673011
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102401,
+        "curTitle": "(8) How To Create A Code Editor For Your Website - Live Blogger - YouTube",
+        "curUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673070
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102410,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102410,
+        "prevUrl": "",
+        "time": 1686673071
+    },
+    {
+        "action": "navigate between urls in the same tab (typed)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686673073
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673088
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102411,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102411,
+        "prevUrl": "",
+        "time": 1686673107
+    },
+    {
+        "action": "navigate between urls in the same tab (generated)",
+        "curTabId": 735102411,
+        "curTitle": "A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks",
+        "curUrl": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "prevTabId": 735102411,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686673120
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102411,
+        "prevUrl": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "time": 1686673193
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673193
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673195
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673210
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673224
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673240
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102411,
+        "curTitle": "A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks",
+        "curUrl": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673343
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102411,
+        "prevUrl": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "time": 1686673348
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673367
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673382
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673400
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673407
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673414
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673421
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673433
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673478
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673495
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673500
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102412,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102412,
+        "prevUrl": "",
+        "time": 1686673608
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102412,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686673609
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102414,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102414,
+        "prevUrl": "",
+        "time": 1686673671
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102414,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686673679
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673680
+    },
+    {
+        "action": "navigate between urls in the same tab (typed)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/users/sign_in",
+        "prevTabId": 735102414,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686673683
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/users/sign_in",
+        "time": 1686673696
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty - Home",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/",
+        "time": 1686673700
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty - Maintenance",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders/new",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/",
+        "time": 1686673704
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty - Maintenance",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders/new",
+        "time": 1686673753
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102411,
+        "curTitle": "A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks",
+        "curUrl": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "time": 1686673765
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102411,
+        "prevUrl": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "time": 1686673766
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102402,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673767
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686673768
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673805
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673815
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102415,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102415,
+        "prevUrl": "",
+        "time": 1686673816
+    },
+    {
+        "action": "navigate between urls in the same tab (generated)",
+        "curTabId": 735102415,
+        "curTitle": "vw to px calculator - Google Search",
+        "curUrl": "https://www.google.com/search?q=vw+to+px+calculator&oq=vw+to+px+ca&aqs=chrome.0.0i512l2j69i57j0i22i30l5j0i390i650l2.2342j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 735102415,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686673820
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102415,
+        "curTitle": "vw To pixel (px) Converter",
+        "curUrl": "https://www.pixelconverter.com/vw-to-pixel-px-converter/",
+        "prevTabId": 735102415,
+        "prevUrl": "https://www.google.com/search?q=vw+to+px+calculator&oq=vw+to+px+ca&aqs=chrome.0.0i512l2j69i57j0i22i30l5j0i390i650l2.2342j0j7&sourceid=chrome&ie=UTF-8",
+        "time": 1686673823
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102415,
+        "prevUrl": "https://www.pixelconverter.com/vw-to-pixel-px-converter/",
+        "time": 1686673836
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673868
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673879
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686673887
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673899
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673929
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686673950
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty - Maintenance",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674167
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102414,
+        "curTitle": "Philip H. Barron Realty - Maintenance",
+        "curUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "time": 1686674175
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102402,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102414,
+        "prevUrl": "https://philiphbarronrealty.appfolio.com/connect/online_work_orders",
+        "time": 1686674176
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686674189
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102401,
+        "curTitle": "(8) How To Create A Code Editor For Your Website - Live Blogger - YouTube",
+        "curUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674190
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102402,
+        "curTitle": "Code-Editor/style.css at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102401,
+        "prevUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "time": 1686674192
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674196
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674212
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674227
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674234
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674239
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674248
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674269
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674270
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674276
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102410,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102410,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686674279
     }
 ]

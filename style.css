@@ -1,17 +1,48 @@
 .editor-container {
   width: 50vw;
-  height: 50vw;
+  height: 48vw;
   margin: auto 15px;
   position: relative;
+  display: flex;
 }
   
 #editor {
   position: absolute;
-  left: 0;
+  left: 10vw;
   right: 0;
-  top: 0;
+  top: 2vw;
   bottom: 0;
   height: 100%;
   width: 100%;
   font-size: 20px;
+  order:2;
+}
+
+#tab-bar{
+  position: absolute;
+  left: 10vw;
+  height: 2vw;
+  width: 100%;
+  background-color: #011e3a;
+  color: white;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#file-name{
+  position: absolute;
+  top: auto;
+  padding: 5px 5px 0px 5px;
+}
+#file-explorer{
+  position: relative;
+  background-color: #011e3a;
+  order:1;
+  width:10vw;
+  height:50vw;
+}
+
+#header{
+  position: absolute;
+  color:white;
+  font-family:Arial, Helvetica, sans-serif;
+  padding: 15px 15px 15px 15px;
 }
