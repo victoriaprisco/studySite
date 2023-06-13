@@ -1,0 +1,11 @@
+[
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102360,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102360,
+        "prevUrl": "",
+        "time": 1686605951
+    }
+]
