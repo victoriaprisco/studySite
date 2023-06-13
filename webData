@@ -7,5 +7,203 @@
         "prevTabId": 735102360,
         "prevUrl": "",
         "time": 1686605951
+    },
+    {
+        "action": "add opened tab that is not in storage",
+        "curTabId": 735102395,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102395,
+        "prevUrl": "",
+        "time": 1686669690
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102395,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/",
+        "prevTabId": 735102395,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686669773
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102395,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=embedding",
+        "prevTabId": 735102395,
+        "prevUrl": "https://ace.c9.io/",
+        "time": 1686669778
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102396,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102396,
+        "prevUrl": "",
+        "time": 1686669971
+    },
+    {
+        "action": "navigate between urls in the same tab (typed)",
+        "curTabId": 735102396,
+        "curTitle": "Index of /Users/victoriaprisco/Desktop/",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/",
+        "prevTabId": 735102396,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686669990
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102396,
+        "curTitle": "Index of /Users/victoriaprisco/Desktop/userStudyWeb/",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/",
+        "time": 1686669992
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/",
+        "time": 1686669993
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102395,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=embedding",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686669998
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102395,
+        "prevUrl": "https://ace.c9.io/#nav=embedding",
+        "time": 1686670039
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670040
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102395,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=embedding",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670043
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102397,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102397,
+        "prevUrl": "",
+        "time": 1686670062
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102395,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=embedding",
+        "prevTabId": 735102397,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686670067
+    },
+    {
+        "action": "navigate between urls in the same tab (generated)",
+        "curTabId": 735102395,
+        "curTitle": "ace-builds CDN by jsDelivr - A CDN for npm and GitHub",
+        "curUrl": "https://www.jsdelivr.com/package/npm/ace-builds",
+        "prevTabId": 735102395,
+        "prevUrl": "https://ace.c9.io/#nav=embedding",
+        "time": 1686670074
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102395,
+        "prevUrl": "https://www.jsdelivr.com/package/npm/ace-builds",
+        "time": 1686670102
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670103
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670104
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102395,
+        "curTitle": "ace-builds CDN by jsDelivr - A CDN for npm and GitHub",
+        "curUrl": "https://www.jsdelivr.com/package/npm/ace-builds",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670105
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102395,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=embedding",
+        "prevTabId": 735102395,
+        "prevUrl": "https://www.jsdelivr.com/package/npm/ace-builds",
+        "time": 1686670111
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102395,
+        "prevUrl": "https://ace.c9.io/#nav=embedding",
+        "time": 1686670123
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670123
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670124
     }
 ]
