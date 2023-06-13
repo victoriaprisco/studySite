@@ -205,5 +205,410 @@
         "prevTabId": 735102396,
         "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
         "time": 1686670124
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670158
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102395,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=embedding",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670159
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102395,
+        "prevUrl": "https://ace.c9.io/#nav=embedding",
+        "time": 1686670188
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670189
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670190
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670191
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102395,
+        "prevUrl": "https://ace.c9.io/#nav=embedding",
+        "time": 1686670358
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670358
+    },
+    {
+        "action": "hyperlink opened in new window",
+        "curTabId": 735102399,
+        "curTitle": "cdn.jsdelivr.net/npm/ace-builds@1.22.1/src-min-noconflict/ace.min.js",
+        "curUrl": "https://cdn.jsdelivr.net/npm/ace-builds@1.22.1/src-min-noconflict/ace.min.js",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670371
+    },
+    {
+        "action": "revisit after previous tab closed",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102399,
+        "prevUrl": "https://cdn.jsdelivr.net/npm/ace-builds@1.22.1/src-min-noconflict/ace.min.js",
+        "time": 1686670375
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 735102401,
+        "curTitle": "New Tab",
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 735102401,
+        "prevUrl": "",
+        "time": 1686670380
+    },
+    {
+        "action": "navigate between urls in the same tab (typed)",
+        "curTabId": 735102401,
+        "curTitle": "How To Create A Code Editor For Your Website - Live Blogger - YouTube",
+        "curUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "prevTabId": 735102401,
+        "prevUrl": "chrome://newtab/",
+        "time": 1686670403
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102401,
+        "prevUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "time": 1686670529
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670529
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102401,
+        "curTitle": "(8) How To Create A Code Editor For Your Website - Live Blogger - YouTube",
+        "curUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670534
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102401,
+        "prevUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "time": 1686670637
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670638
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670639
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670648
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670649
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670660
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670679
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670693
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102401,
+        "prevUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "time": 1686670697
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102395,
+        "curTitle": "ace - Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers",
+        "curUrl": "https://cdnjs.com/libraries/ace",
+        "prevTabId": 735102395,
+        "prevUrl": "https://ace.c9.io/#nav=embedding",
+        "time": 1686670708
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102395,
+        "prevUrl": "https://cdnjs.com/libraries/ace",
+        "time": 1686670722
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670723
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670743
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102395,
+        "curTitle": "ace - Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers",
+        "curUrl": "https://cdnjs.com/libraries/ace",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670744
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102395,
+        "curTitle": "Ace - The High Performance Code Editor for the Web",
+        "curUrl": "https://ace.c9.io/#nav=embedding",
+        "prevTabId": 735102395,
+        "prevUrl": "https://cdnjs.com/libraries/ace",
+        "time": 1686670746
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102401,
+        "curTitle": "(8) How To Create A Code Editor For Your Website - Live Blogger - YouTube",
+        "curUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "prevTabId": 735102395,
+        "prevUrl": "https://ace.c9.io/#nav=embedding",
+        "time": 1686670818
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 735102402,
+        "curTitle": "livebloggerofficial/Code-Editor",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor",
+        "prevTabId": 735102401,
+        "prevUrl": "https://www.youtube.com/watch?v=U0O-ysWPstw",
+        "time": 1686670834
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102402,
+        "curTitle": "livebloggerofficial/Code-Editor",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor",
+        "time": 1686670835
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102402,
+        "curTitle": "livebloggerofficial/Code-Editor",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/index.html",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor",
+        "time": 1686670836
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102402,
+        "curTitle": "livebloggerofficial/Code-Editor",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/index.html",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/index.html",
+        "time": 1686670836
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102402,
+        "curTitle": "Code-Editor/index.html at main · livebloggerofficial/Code-Editor",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/main.js",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/index.html",
+        "time": 1686670854
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 735102402,
+        "curTitle": "Code-Editor/index.html at main · livebloggerofficial/Code-Editor",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/main.js",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/main.js",
+        "time": 1686670854
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102402,
+        "curTitle": "Code-Editor/index.html at main · livebloggerofficial/Code-Editor",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/main.js",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/main.js",
+        "time": 1686670855
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102402,
+        "curTitle": "Code-Editor/main.js at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/main.js",
+        "time": 1686670863
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 735102402,
+        "curTitle": "Code-Editor/main.js at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686670863
+    },
+    {
+        "action": "navigate between urls in the same tab (link)",
+        "curTabId": 735102402,
+        "curTitle": "Code-Editor/main.js at main · livebloggerofficial/Code-Editor · GitHub",
+        "curUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686670863
+    },
+    {
+        "action": "revisit",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102402,
+        "prevUrl": "https://github.com/livebloggerofficial/Code-Editor/blob/main/style.css",
+        "time": 1686670874
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670875
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670889
+    },
+    {
+        "action": "navigate between urls in the same tab (reload)",
+        "curTabId": 735102396,
+        "curTitle": "Document",
+        "curUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "prevTabId": 735102396,
+        "prevUrl": "file:///Users/victoriaprisco/Desktop/userStudyWeb/index.html",
+        "time": 1686670960
     }
 ]
